@@ -13,12 +13,9 @@ Two VS Code color themes inspired by the Netflix film **超かぐや姫!** (*COS
 
 ![Reply (light)](./screenshots/reply.png)
 
-Sample shown: [`samples/doge.tsx`](./samples/doge.tsx).
-
 ## Install
 
-- **Marketplace:** open the Extensions view in VS Code, search for `Tsukuyomi Reply` (or `CPK`), and click **Install**. From the command palette: `ext install warudakumi.tsukuyomi-reply`.
-- **From a `.vsix`:** download the `.vsix` from the [Releases](https://github.com/warudakumi/tsukuyomi-reply/releases) page, then in VS Code: **Extensions → ··· → Install from VSIX...**.
+Open the Extensions view in VS Code, search for `Tsukuyomi Reply` (or `CPK`), and click **Install**. From the command palette: `ext install warudakumi.tsukuyomi-reply`.
 
 Then press `Ctrl`/`Cmd` + `K`, `Ctrl`/`Cmd` + `T` and pick **Tsukuyomi** or **Reply**.
 
