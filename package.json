@@ -1,0 +1,55 @@
+{
+  "name": "tsukuyomi-reply",
+  "displayName": "Tsukuyomi & Reply",
+  "description": "Two color themes inspired by the Netflix film 超かぐや姫! (CPK!). Tsukuyomi (dark) — a night sea of iridescent light with a glowing torii. Reply (light) — a warm sunlit seaside with a vermilion torii.",
+  "version": "1.0.0",
+  "publisher": "warudakumi",
+  "license": "MIT",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0B1424",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark",
+    "light",
+    "tsukuyomi",
+    "reply",
+    "cpk",
+    "kaguya",
+    "anime",
+    "japanese",
+    "sepia",
+    "aurora"
+  ],
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/warudakumi/tsukuyomi-reply.git"
+  },
+  "homepage": "https://github.com/warudakumi/tsukuyomi-reply#readme",
+  "bugs": {
+    "url": "https://github.com/warudakumi/tsukuyomi-reply/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tsukuyomi (超かぐや姫!)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tsukuyomi-dark-color-theme.json"
+      },
+      {
+        "label": "Reply (超かぐや姫!)",
+        "uiTheme": "vs",
+        "path": "./themes/reply-light-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+# Source / project metadata
+.gitignore
+.vscodeignore
+.vscode/**
+.git/**
+
+# Development history (not for end users)
+archive/**
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.vsix
+node_modules/**
