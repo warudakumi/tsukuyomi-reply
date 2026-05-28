@@ -1,9 +1,8 @@
 {
-  "name": "Reply (超かぐや姫!)",
+  "name": "Reply",
   "type": "light",
   "semanticHighlighting": true,
   "colors": {
-    "//": "===== Reply — 暖かな陽だまり・夕映えの海辺（Reply のMVイメージ） =====",
     "foreground": "#4A4250",
     "focusBorder": "#2A72BE",
     "errorForeground": "#C53A28",

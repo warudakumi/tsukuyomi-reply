@@ -1,9 +1,8 @@
 {
-  "name": "Tsukuyomi (超かぐや姫!)",
+  "name": "Tsukuyomi",
   "type": "dark",
   "semanticHighlighting": true,
   "colors": {
-    "//": "===== Tsukuyomi — 夜の海に舞う虹色の光、流れるオーロラ、ただ一点灯る鳥居 =====",
     "foreground": "#C3CEDE",
     "focusBorder": "#36E0D8",
     "errorForeground": "#FF6D6D",
